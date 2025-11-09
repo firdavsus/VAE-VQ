@@ -13,3 +13,4 @@ Loss: ~0.07
 ![Local image](./logs/epoch-22.png)
 
 Fell free to use it!
+Model is in huggingface: firdavsus/text2Image
