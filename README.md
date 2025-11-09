@@ -9,7 +9,7 @@ Size of latents: 64-64
 Loss: ~0.07
 
 ## Samples:
-![Local image] (./logs/epoch-21.png)
-![Local image] (./logs/epoch-22.png)
+![Local image](./logs/epoch-21.png)
+![Local image](./logs/epoch-22.png)
 
 Fell free to use it!
