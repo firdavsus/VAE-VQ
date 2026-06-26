@@ -8,6 +8,9 @@ Vocab size: 8192
 Size of latents: 64-64
 Loss: ~0.07
 
+## Compression
+from 128x128 image to 256 (16*16) indecies
+
 ## Samples:
 ![Local image](./logs/epoch-21.png)
 ![Local image](./logs/epoch-22.png)
